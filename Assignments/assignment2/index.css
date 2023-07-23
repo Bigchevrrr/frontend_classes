@@ -1,0 +1,63 @@
+/* css link */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+  .sheffs {
+    display: flex;
+    gap: 20;
+    justify-content: space-between;
+    align-items: center;
+  }  
+  .divclass {
+    font-size: 70px;
+    color: black;
+    
+  }
+    
+.navlinks {
+    display:flex;
+    gap: 20px;
+}
+section{
+    display: flex;
+    gap: 20;
+    justify-content: space-between;
+
+}
+
+.yellow {
+    color: rgb(240, 240, 64);
+}
+.dark-bg{
+    background-color: black;
+    color: white;
+    height: 400px;
+}
+
+.flex-1{
+    display: flex;
+}
+
+.flex-2{
+    display: flex;
+    flex-direction: column;
+}
+
+.pc-game{
+    display: flex;
+    gap: 40px;
+}
+.gigs{
+    width: 100px;
+}
+.web-dg{
+    width: 350px;
+}
+.ping{
+    color: red
+}
+.font{
+    font-size: 30px;
+}
